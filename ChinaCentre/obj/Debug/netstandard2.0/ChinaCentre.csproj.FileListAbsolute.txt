@@ -1,0 +1,15 @@
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\obj\Debug\netstandard2.0\ChinaCentre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\obj\Debug\netstandard2.0\Views\Shared\_Layout.xaml.g.cs
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\obj\Debug\netstandard2.0\ChinaCentre.AssemblyInfoInputs.cache
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\obj\Debug\netstandard2.0\ChinaCentre.AssemblyInfo.cs
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\obj\Debug\netstandard2.0\ChinaCentre.csproj.CoreCompileInputs.cache
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\bin\Debug\netstandard2.0\ChinaCentre.deps.json
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\bin\Debug\netstandard2.0\ChinaCentre.dll
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\bin\Debug\netstandard2.0\ref\ChinaCentre.dll
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\bin\Debug\netstandard2.0\ChinaCentre.pdb
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\obj\Debug\netstandard2.0\ChinaCentre.dll
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\obj\Debug\netstandard2.0\ref\ChinaCentre.dll
+C:\Users\Mabalane\Desktop\ChinaCentre\ChinaCentre\obj\Debug\netstandard2.0\ChinaCentre.pdb
